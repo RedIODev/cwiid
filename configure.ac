@@ -100,8 +100,8 @@ AC_SUBST(LDCONFIG)
 
 #pkg_modules="gtk+-2.0 >= 2.0.0 gthread-2.0"
 #PKG_CHECK_MODULES([GTK], [$pkg_modules])
-AC_SUBST(GTK_CFLAGS)
-AC_SUBST(GTK_LIBS)
+#AC_SUBST(GTK_CFLAGS)
+#AC_SUBST(GTK_LIBS)
 
 AC_OUTPUT(
 	[Makefile]

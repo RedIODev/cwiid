@@ -107,12 +107,12 @@ AC_OUTPUT(
 	[Makefile]
 	[defs.mak]
 	[common/include/lib.mak]
-	[doc/Makefile]
-	[man/Makefile]
 	[libcwiid/Makefile]
 	[libcwiid/cwiid.pc]
 
 	)
+#	[doc/Makefile]
+#	[man/Makefile]
 #	[wmdemo/Makefile]
 #	[wmgui/Makefile]
 #	[wminput/Makefile]

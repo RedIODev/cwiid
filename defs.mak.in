@@ -16,7 +16,7 @@ datarootdir = @datarootdir@
 mandir = @mandir@
 docdir = @docdir@
 
-CC = CC_armv5te_unknown_linux_gnueabi
+CC = @CCD@
 AWK = @AWK@
 LEX = @LEX@
 YACC = @YACC@

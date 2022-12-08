@@ -16,7 +16,7 @@ datarootdir = @datarootdir@
 mandir = @mandir@
 docdir = @docdir@
 
-CC = CCD
+CC = @CC@
 AWK = @AWK@
 LEX = @LEX@
 YACC = @YACC@
